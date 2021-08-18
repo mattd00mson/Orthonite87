@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4148_SOD-123_
+D Small Signal Fast Switching Diode
+K
+F https://docs.rs-online.com/d6a2/0900766b80df8fd1.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,1 +1,29 @@
+6516864094395
+josh-passives-smt
+D_SOD-123FL
+D_SOD-123F
+D_SOD-123F
 0
+2
+2
+josh-passives-smt
+Ferrite_Bead_0603
+ferrite bead 0603
+Ferrite Bead
+0
+2
+2
+josh-passives-smt
+Fuse_0603_1608Metric
+Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+josh-passives-smt
+Fuse_0805_2012Metric
+Fuse SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+resistor
+0
+2
+2

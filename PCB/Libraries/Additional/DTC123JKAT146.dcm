@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DTC123JKAT146
+D Digital NPN transistor array,DTC123JKA ROHM, DTC123JKAT146 NPN Digital Transistor, 100 mA 50 V 2.2 k, Ratio Of 0.047, 3-Pin SMT
+K
+F http://docs-emea.rs-online.com/webdocs/101d/0900766b8101ddbb.pdf
+$ENDCMP
+#
+#End Doc Library
