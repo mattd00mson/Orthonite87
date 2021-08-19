@@ -1,4 +1,4 @@
-19590684073886398
+19597203075863961
 1N4148_SOD-123_
 SOD3716X135N
 SOD-123
@@ -6,6 +6,20 @@ Diode
 0
 2
 2
+Art
+Back
+
+
+0
+0
+0
+Art
+Front3
+
+
+0
+0
+0
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -84105,6 +84119,13 @@ CONN
 6
 6
 keyboard_parts
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+keyboard_parts
 C_1608
 SMT, 1608, 0603
 SMT, 1608, 0603
@@ -84171,6 +84192,13 @@ keyboard_parts
 D_SC79
 SMT, 1608, 0603
 SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+D_SOD-123
+SOD-123
+SOD-123
 0
 2
 2

@@ -1,0 +1,100 @@
+
+(rules PCB Orthonite87_PCB
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 26642)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 3.8)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.4)
+    )
+  )
+  (rule
+    (width 250.0)
+    (clear 200.2)
+    (clear 125.0 (type smd_to_turn_gap))
+    (clear 50.0 (type smd_smd))
+  )
+  (padstack "Via[0-1]_600:300_um"
+    (shape
+      (circle F.Cu 600.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 600.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_600:300_um" "Via[0-1]_600:300_um" default
+  )
+  (via 
+    "Via[0-1]_600:300_um-kicad_default" "Via[0-1]_600:300_um" "kicad_default"
+  )
+  (via_rule
+    default "Via[0-1]_600:300_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_600:300_um-kicad_default"
+  )
+  (class default
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    +5V BUZZER +3V3 VBUS "Net-(C8-Pad2)" "/XTAL_0" "/XTAL_1" /nRST
+    /BOOT0 "Net-(D1-Pad2)" "Net-(D1-Pad4)" GND "Net-(D2-Pad2)" "Net-(D3-Pad2)" "Net-(D4-Pad2)" "Net-(D5-Pad2)"
+    "Net-(D6-Pad2)" "Net-(D7-Pad2)" "Net-(D8-Pad2)" "Net-(D10-Pad4)" "Net-(D10-Pad2)" "Net-(D11-Pad2)" "Net-(D12-Pad2)" "Net-(D13-Pad2)"
+    "Net-(D14-Pad2)" "Net-(D15-Pad2)" "Net-(D16-Pad2)" "Net-(D17-Pad2)" "Net-(D18-Pad2)" "Net-(D19-Pad2)" "Net-(D20-Pad2)" "Net-(D21-Pad2)"
+    "Net-(D22-Pad2)" "Net-(D23-Pad2)" "Net-(D24-Pad2)" "Net-(D25-Pad2)" "Net-(D26-Pad2)" "Net-(D_1-Pad2)" row0 "Net-(D_2-Pad2)"
+    "Net-(D_3-Pad2)" "Net-(D_4-Pad2)" "Net-(D_5-Pad2)" "Net-(D_6-Pad2)" "Net-(D_7-Pad2)" "Net-(D_8-Pad2)" "Net-(D_9-Pad2)" "Net-(D_10-Pad2)"
+    "Net-(D_11-Pad2)" "Net-(D_12-Pad2)" "Net-(D_13-Pad2)" "Net-(D_14-Pad2)" "Net-(D_15-Pad2)" "Net-(D_16-Pad2)" "Net-(D_17-Pad2)" row1
+    "Net-(D_18-Pad2)" "Net-(D_19-Pad2)" "Net-(D_20-Pad2)" "Net-(D_21-Pad2)" "Net-(D_22-Pad2)" "Net-(D_23-Pad2)" "Net-(D_24-Pad2)" "Net-(D_25-Pad2)"
+    "Net-(D_26-Pad2)" "Net-(D_27-Pad2)" "Net-(D_28-Pad2)" "Net-(D_29-Pad2)" "Net-(D_30-Pad2)" "Net-(D_31-Pad2)" "Net-(D_32-Pad2)" "Net-(D_33-Pad2)"
+    row2 "Net-(D_34-Pad2)" "Net-(D_35-Pad2)" "Net-(D_36-Pad2)" "Net-(D_37-Pad2)" "Net-(D_38-Pad2)" "Net-(D_39-Pad2)" "Net-(D_40-Pad2)"
+    "Net-(D_41-Pad2)" "Net-(D_42-Pad2)" "Net-(D_43-Pad2)" "Net-(D_44-Pad2)" "Net-(D_45-Pad2)" "Net-(D_46-Pad2)" "Net-(D_47-Pad2)" "Net-(D_48-Pad2)"
+    "Net-(D_49-Pad2)" "Net-(D_50-Pad2)" row3 "Net-(D_51-Pad2)" "Net-(D_52-Pad2)" "Net-(D_53-Pad2)" "Net-(D_54-Pad2)" "Net-(D_55-Pad2)"
+    "Net-(D_56-Pad2)" "Net-(D_57-Pad2)" "Net-(D_58-Pad2)" "Net-(D_59-Pad2)" "Net-(D_60-Pad2)" "Net-(D_61-Pad2)" "Net-(D_62-Pad2)" "Net-(D_63-Pad2)"
+    "Net-(D_64-Pad2)" "Net-(D_65-Pad2)" "Net-(D_66-Pad2)" "Net-(D_67-Pad2)" row4 "Net-(D_68-Pad2)" "Net-(D_69-Pad2)" "Net-(D_70-Pad2)"
+    "Net-(D_71-Pad2)" "Net-(D_72-Pad2)" "Net-(D_73-Pad2)" "Net-(D_74-Pad2)" "Net-(D_75-Pad2)" "Net-(D_76-Pad2)" "Net-(D_77-Pad2)" "Net-(D_78-Pad2)"
+    "Net-(D_79-Pad2)" "Net-(D_80-Pad2)" "Net-(D_81-Pad2)" "Net-(D_82-Pad2)" "Net-(D_83-Pad2)" "Net-(D_84-Pad2)" row5 "Net-(D_85-Pad2)"
+    "Net-(D_86-Pad2)" "Net-(D_87-Pad2)" "Net-(D_88-Pad2)" "Net-(D_89-Pad2)" "Net-(D_90-Pad2)" "Net-(D_91-Pad2)" "Net-(D_92-Pad2)" "Net-(D_93-Pad2)"
+    "Net-(D_94-Pad2)" "Net-(D_95-Pad2)" "Net-(D_96-Pad2)" "Net-(D_97-Pad2)" "Net-(D_98-Pad2)" "Net-(D_99-Pad2)" "Net-(D_100-Pad2)" /USB+
+    "Net-(J1-PadA5)" "Net-(J1-PadB8)" "/USB-" "Net-(J1-PadB5)" "Net-(J1-PadA8)" /SWDCLK /SWDIO col15
+    "ENCO_A" "ENCO_B" col1 col16 col4 col12 col13 /underglow
+    "/USB_D+" "Net-(U1-Pad4)" "/USB_D-" col5 "Net-(U3-Pad59)" "Net-(U3-Pad58)" "Net-(U3-Pad57)" "Net-(U3-Pad56)"
+    "Net-(U3-Pad55)" "Net-(U3-Pad54)" "Net-(U3-Pad50)" "Net-(U3-Pad43)" "Net-(U3-Pad42)" "Net-(U3-Pad40)" "Net-(U3-Pad39)" "Net-(U3-Pad38)"
+    "Net-(U3-Pad37)" col0 col2 col3 "Net-(U3-Pad24)" col14 "Net-(U3-Pad21)" "Net-(U3-Pad18)"
+    "Net-(U3-Pad16)" "Net-(U3-Pad15)" "Net-(U3-Pad14)" col6 col7 col8 col9 col11
+    col10
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)

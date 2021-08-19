@@ -19,4 +19,5 @@
   (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/../Libraries/kicad_lib_tmk-master/keyboard_parts.pretty-master)(options "")(descr ""))
   (lib (name DTC123JKAT146)(type Legacy)(uri ${KIPRJMOD}/../Libraries/Additional/DTC123JKAT146.mod)(options "")(descr ""))
   (lib (name PKMCS0909E4000-R1)(type Legacy)(uri ${KIPRJMOD}/../Libraries/Additional/PKMCS0909E4000-R1.mod)(options "")(descr ""))
+  (lib (name Art)(type KiCad)(uri ${KIPRJMOD}/../../Graphics/Art)(options "")(descr ""))
 )
