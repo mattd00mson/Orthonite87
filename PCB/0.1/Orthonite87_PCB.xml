@@ -1,0 +1,5008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\mattr\Documents\GitHub\Orthonite87\PCB\0.1\Orthonite87_PCB.sch</source>
+    <date>8/20/2021 11:58:30 AM</date>
+    <tool>Eeschema (5.1.10)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Orthonite87_PCB.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="K_9">
+      <value>0,7</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA68B</tstamp>
+    </comp>
+    <comp ref="D_8">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA695</tstamp>
+    </comp>
+    <comp ref="K_10">
+      <value>0,8</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA69F</tstamp>
+    </comp>
+    <comp ref="D_9">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA6A9</tstamp>
+    </comp>
+    <comp ref="K_11">
+      <value>0,9</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA6B4</tstamp>
+    </comp>
+    <comp ref="D_10">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA6BE</tstamp>
+    </comp>
+    <comp ref="K_12">
+      <value>0,10</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA6CA</tstamp>
+    </comp>
+    <comp ref="D_11">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA6D4</tstamp>
+    </comp>
+    <comp ref="K_13">
+      <value>0,11</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA6DF</tstamp>
+    </comp>
+    <comp ref="D_12">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA6E9</tstamp>
+    </comp>
+    <comp ref="K_14">
+      <value>0,12</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA6F6</tstamp>
+    </comp>
+    <comp ref="D_13">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA700</tstamp>
+    </comp>
+    <comp ref="K_15">
+      <value>0,13</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA70B</tstamp>
+    </comp>
+    <comp ref="D_14">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA715</tstamp>
+    </comp>
+    <comp ref="D_16">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA723</tstamp>
+    </comp>
+    <comp ref="D_7">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA738</tstamp>
+    </comp>
+    <comp ref="K_8">
+      <value>0,6</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA73F</tstamp>
+    </comp>
+    <comp ref="D_6">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA74E</tstamp>
+    </comp>
+    <comp ref="K_7">
+      <value>0,5</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA755</tstamp>
+    </comp>
+    <comp ref="D_5">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA763</tstamp>
+    </comp>
+    <comp ref="K_6">
+      <value>0,4</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA76A</tstamp>
+    </comp>
+    <comp ref="D_4">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA77A</tstamp>
+    </comp>
+    <comp ref="K_5">
+      <value>0,3</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA781</tstamp>
+    </comp>
+    <comp ref="D_3">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA78F</tstamp>
+    </comp>
+    <comp ref="K_4">
+      <value>0,2</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA796</tstamp>
+    </comp>
+    <comp ref="D_2">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA7A5</tstamp>
+    </comp>
+    <comp ref="K_3">
+      <value>0,1</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA7AC</tstamp>
+    </comp>
+    <comp ref="D_1">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA7BB</tstamp>
+    </comp>
+    <comp ref="K_2">
+      <value>0,0</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA7C2</tstamp>
+    </comp>
+    <comp ref="K_24">
+      <value>1,7</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA7C9</tstamp>
+    </comp>
+    <comp ref="D_23">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA7D3</tstamp>
+    </comp>
+    <comp ref="K_25">
+      <value>1,8</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA7DC</tstamp>
+    </comp>
+    <comp ref="D_24">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA7E6</tstamp>
+    </comp>
+    <comp ref="K_26">
+      <value>1,9</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA7F0</tstamp>
+    </comp>
+    <comp ref="D_25">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA7FA</tstamp>
+    </comp>
+    <comp ref="K_27">
+      <value>1,10</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA805</tstamp>
+    </comp>
+    <comp ref="D_26">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA80F</tstamp>
+    </comp>
+    <comp ref="K_28">
+      <value>1,11</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA819</tstamp>
+    </comp>
+    <comp ref="D_27">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA823</tstamp>
+    </comp>
+    <comp ref="K_29">
+      <value>1,12</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA82F</tstamp>
+    </comp>
+    <comp ref="D_28">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA839</tstamp>
+    </comp>
+    <comp ref="K_30">
+      <value>1,13</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA843</tstamp>
+    </comp>
+    <comp ref="D_29">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA84D</tstamp>
+    </comp>
+    <comp ref="K_32">
+      <value>1,16</value>
+      <footprint>josh-keyboard:MXOnly-2U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA857</tstamp>
+    </comp>
+    <comp ref="D_31">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA861</tstamp>
+    </comp>
+    <comp ref="K_31">
+      <value>1,14</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA86B</tstamp>
+    </comp>
+    <comp ref="D_30">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA875</tstamp>
+    </comp>
+    <comp ref="D_22">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA88C</tstamp>
+    </comp>
+    <comp ref="K_23">
+      <value>1,6</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA893</tstamp>
+    </comp>
+    <comp ref="D_21">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA8A1</tstamp>
+    </comp>
+    <comp ref="K_22">
+      <value>1,5</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA8A8</tstamp>
+    </comp>
+    <comp ref="D_20">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA8B5</tstamp>
+    </comp>
+    <comp ref="K_21">
+      <value>1,4</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA8BC</tstamp>
+    </comp>
+    <comp ref="D_19">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA8CB</tstamp>
+    </comp>
+    <comp ref="K_20">
+      <value>1,3</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA8D2</tstamp>
+    </comp>
+    <comp ref="D_18">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA8DF</tstamp>
+    </comp>
+    <comp ref="K_19">
+      <value>1,2</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA8E6</tstamp>
+    </comp>
+    <comp ref="D_17">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA8F2</tstamp>
+    </comp>
+    <comp ref="K_18">
+      <value>1,1</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA8F9</tstamp>
+    </comp>
+    <comp ref="K_42">
+      <value>2,8</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA919</tstamp>
+    </comp>
+    <comp ref="D_40">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA923</tstamp>
+    </comp>
+    <comp ref="K_43">
+      <value>2,9</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA92C</tstamp>
+    </comp>
+    <comp ref="D_41">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA936</tstamp>
+    </comp>
+    <comp ref="K_44">
+      <value>2,10</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA940</tstamp>
+    </comp>
+    <comp ref="D_42">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA94A</tstamp>
+    </comp>
+    <comp ref="K_45">
+      <value>2,11</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA955</tstamp>
+    </comp>
+    <comp ref="D_43">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA95F</tstamp>
+    </comp>
+    <comp ref="K_46">
+      <value>2,12</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA969</tstamp>
+    </comp>
+    <comp ref="D_44">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA973</tstamp>
+    </comp>
+    <comp ref="K_47">
+      <value>2,13</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA97F</tstamp>
+    </comp>
+    <comp ref="D_45">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA989</tstamp>
+    </comp>
+    <comp ref="K_48">
+      <value>2,14</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA993</tstamp>
+    </comp>
+    <comp ref="D_46">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA99D</tstamp>
+    </comp>
+    <comp ref="K_49">
+      <value>2,15</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA9A7</tstamp>
+    </comp>
+    <comp ref="D_47">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA9B1</tstamp>
+    </comp>
+    <comp ref="K_50">
+      <value>2,16</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA9BB</tstamp>
+    </comp>
+    <comp ref="D_48">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA9C5</tstamp>
+    </comp>
+    <comp ref="D_39">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA9DC</tstamp>
+    </comp>
+    <comp ref="K_41">
+      <value>2,7</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA9E3</tstamp>
+    </comp>
+    <comp ref="D_38">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA9F1</tstamp>
+    </comp>
+    <comp ref="K_40">
+      <value>2,6</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEA9F8</tstamp>
+    </comp>
+    <comp ref="D_37">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAA05</tstamp>
+    </comp>
+    <comp ref="K_39">
+      <value>2,5</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAA0C</tstamp>
+    </comp>
+    <comp ref="D_36">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAA1B</tstamp>
+    </comp>
+    <comp ref="K_38">
+      <value>2,4</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAA22</tstamp>
+    </comp>
+    <comp ref="D_35">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAA2F</tstamp>
+    </comp>
+    <comp ref="K_37">
+      <value>2,3</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAA36</tstamp>
+    </comp>
+    <comp ref="D_34">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAA44</tstamp>
+    </comp>
+    <comp ref="K_36">
+      <value>2,2</value>
+      <footprint>josh-keyboard:MXOnly-2U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAA4B</tstamp>
+    </comp>
+    <comp ref="D_33">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAA59</tstamp>
+    </comp>
+    <comp ref="K_35">
+      <value>2,0</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAA60</tstamp>
+    </comp>
+    <comp ref="K_61">
+      <value>3,8</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAA84</tstamp>
+    </comp>
+    <comp ref="D_57">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAA8E</tstamp>
+    </comp>
+    <comp ref="K_62">
+      <value>3,9</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAA97</tstamp>
+    </comp>
+    <comp ref="D_58">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAAA1</tstamp>
+    </comp>
+    <comp ref="K_63">
+      <value>3,10</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAAAB</tstamp>
+    </comp>
+    <comp ref="D_59">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAAB5</tstamp>
+    </comp>
+    <comp ref="K_64">
+      <value>3,11</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAAC0</tstamp>
+    </comp>
+    <comp ref="D_60">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAACA</tstamp>
+    </comp>
+    <comp ref="K_65">
+      <value>3,12</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAAD4</tstamp>
+    </comp>
+    <comp ref="D_61">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAADE</tstamp>
+    </comp>
+    <comp ref="K_66">
+      <value>3,13</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAAEA</tstamp>
+    </comp>
+    <comp ref="D_62">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAAF4</tstamp>
+    </comp>
+    <comp ref="K_67">
+      <value>3,14</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAAFE</tstamp>
+    </comp>
+    <comp ref="D_63">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB08</tstamp>
+    </comp>
+    <comp ref="K_68">
+      <value>3,15</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB12</tstamp>
+    </comp>
+    <comp ref="D_64">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB1C</tstamp>
+    </comp>
+    <comp ref="K_69">
+      <value>3,16</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB26</tstamp>
+    </comp>
+    <comp ref="D_65">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB30</tstamp>
+    </comp>
+    <comp ref="D_56">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB47</tstamp>
+    </comp>
+    <comp ref="K_60">
+      <value>3,7</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB4E</tstamp>
+    </comp>
+    <comp ref="D_55">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB5C</tstamp>
+    </comp>
+    <comp ref="K_59">
+      <value>3,6</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB63</tstamp>
+    </comp>
+    <comp ref="D_54">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB70</tstamp>
+    </comp>
+    <comp ref="K_58">
+      <value>3,5</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB77</tstamp>
+    </comp>
+    <comp ref="D_53">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB86</tstamp>
+    </comp>
+    <comp ref="K_57">
+      <value>3,4</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB8D</tstamp>
+    </comp>
+    <comp ref="D_52">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAB9A</tstamp>
+    </comp>
+    <comp ref="K_56">
+      <value>3,3</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEABA1</tstamp>
+    </comp>
+    <comp ref="D_51">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEABAF</tstamp>
+    </comp>
+    <comp ref="K_55">
+      <value>3,2</value>
+      <footprint>josh-keyboard:MXOnly-2U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEABB6</tstamp>
+    </comp>
+    <comp ref="D_50">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEABC4</tstamp>
+    </comp>
+    <comp ref="K_54">
+      <value>3,0</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEABCB</tstamp>
+    </comp>
+    <comp ref="K_80">
+      <value>4,8</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEABE2</tstamp>
+    </comp>
+    <comp ref="D_74">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEABEC</tstamp>
+    </comp>
+    <comp ref="K_81">
+      <value>4,9</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEABF5</tstamp>
+    </comp>
+    <comp ref="D_75">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEABFF</tstamp>
+    </comp>
+    <comp ref="K_82">
+      <value>4,10</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC09</tstamp>
+    </comp>
+    <comp ref="D_76">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC13</tstamp>
+    </comp>
+    <comp ref="K_83">
+      <value>4,11</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC1E</tstamp>
+    </comp>
+    <comp ref="D_77">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC28</tstamp>
+    </comp>
+    <comp ref="K_84">
+      <value>4,12</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC32</tstamp>
+    </comp>
+    <comp ref="D_78">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC3C</tstamp>
+    </comp>
+    <comp ref="K_85">
+      <value>4,13</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC48</tstamp>
+    </comp>
+    <comp ref="D_79">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC52</tstamp>
+    </comp>
+    <comp ref="K_86">
+      <value>4,14</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC5C</tstamp>
+    </comp>
+    <comp ref="D_80">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC66</tstamp>
+    </comp>
+    <comp ref="K_87">
+      <value>4,15</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC70</tstamp>
+    </comp>
+    <comp ref="D_81">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC7A</tstamp>
+    </comp>
+    <comp ref="K_88">
+      <value>4,16</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC84</tstamp>
+    </comp>
+    <comp ref="D_82">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAC8E</tstamp>
+    </comp>
+    <comp ref="D_73">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEACA5</tstamp>
+    </comp>
+    <comp ref="K_79">
+      <value>4,7</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEACAC</tstamp>
+    </comp>
+    <comp ref="D_72">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEACBA</tstamp>
+    </comp>
+    <comp ref="K_78">
+      <value>4,6</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEACC1</tstamp>
+    </comp>
+    <comp ref="D_71">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEACCE</tstamp>
+    </comp>
+    <comp ref="K_77">
+      <value>4,5</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEACD5</tstamp>
+    </comp>
+    <comp ref="D_70">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEACE4</tstamp>
+    </comp>
+    <comp ref="K_76">
+      <value>4,4</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEACEB</tstamp>
+    </comp>
+    <comp ref="D_69">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEACF8</tstamp>
+    </comp>
+    <comp ref="K_75">
+      <value>4,3</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEACFF</tstamp>
+    </comp>
+    <comp ref="D_68">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAD0D</tstamp>
+    </comp>
+    <comp ref="K_74">
+      <value>4,2</value>
+      <footprint>josh-keyboard:MXOnly-2U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAD14</tstamp>
+    </comp>
+    <comp ref="D_67">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAD22</tstamp>
+    </comp>
+    <comp ref="K_73">
+      <value>4,0</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAD29</tstamp>
+    </comp>
+    <comp ref="K_99">
+      <value>5,8</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAD5F</tstamp>
+    </comp>
+    <comp ref="D_91">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAD69</tstamp>
+    </comp>
+    <comp ref="K_100">
+      <value>5,9</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAD72</tstamp>
+    </comp>
+    <comp ref="D_92">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAD7C</tstamp>
+    </comp>
+    <comp ref="K_101">
+      <value>5,10</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAD86</tstamp>
+    </comp>
+    <comp ref="D_93">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAD90</tstamp>
+    </comp>
+    <comp ref="K_102">
+      <value>5,11</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAD9B</tstamp>
+    </comp>
+    <comp ref="D_94">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEADA5</tstamp>
+    </comp>
+    <comp ref="K_103">
+      <value>5,12</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEADAF</tstamp>
+    </comp>
+    <comp ref="D_95">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEADB9</tstamp>
+    </comp>
+    <comp ref="K_104">
+      <value>5,14</value>
+      <footprint>josh-keyboard:MXOnly-3U-ReversedStabilizers-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEADC5</tstamp>
+    </comp>
+    <comp ref="D_96">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEADCF</tstamp>
+    </comp>
+    <comp ref="K_105">
+      <value>5,15</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEADD9</tstamp>
+    </comp>
+    <comp ref="D_97">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEADE3</tstamp>
+    </comp>
+    <comp ref="K_106">
+      <value>5,16</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEADED</tstamp>
+    </comp>
+    <comp ref="D_98">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEADF7</tstamp>
+    </comp>
+    <comp ref="K_107">
+      <value>5,17</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE01</tstamp>
+    </comp>
+    <comp ref="D_99">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE0B</tstamp>
+    </comp>
+    <comp ref="D_90">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE22</tstamp>
+    </comp>
+    <comp ref="K_98">
+      <value>5,7</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE29</tstamp>
+    </comp>
+    <comp ref="D_89">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE37</tstamp>
+    </comp>
+    <comp ref="K_97">
+      <value>5,6</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE3E</tstamp>
+    </comp>
+    <comp ref="D_88">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE4B</tstamp>
+    </comp>
+    <comp ref="K_96">
+      <value>5,5</value>
+      <footprint>josh-keyboard:MXOnly-3U-ReversedStabilizers-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE52</tstamp>
+    </comp>
+    <comp ref="D_87">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE61</tstamp>
+    </comp>
+    <comp ref="K_95">
+      <value>5,3</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE68</tstamp>
+    </comp>
+    <comp ref="D_86">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE75</tstamp>
+    </comp>
+    <comp ref="K_94">
+      <value>5,2</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE7C</tstamp>
+    </comp>
+    <comp ref="D_85">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE8A</tstamp>
+    </comp>
+    <comp ref="K_93">
+      <value>5,1</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE91</tstamp>
+    </comp>
+    <comp ref="D_84">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAE9F</tstamp>
+    </comp>
+    <comp ref="K_92">
+      <value>5,0</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAEA6</tstamp>
+    </comp>
+    <comp ref="K_34">
+      <value>2,1</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAED2</tstamp>
+    </comp>
+    <comp ref="K_52">
+      <value>3,1</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAEDF</tstamp>
+    </comp>
+    <comp ref="K_71">
+      <value>4,1</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAEE6</tstamp>
+    </comp>
+    <comp ref="K_17">
+      <value>1,15</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAF2D</tstamp>
+    </comp>
+    <comp ref="K_1">
+      <value>0,15</value>
+      <footprint>josh-keyboard:MX_KEYSWITCH_ENCODER</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="Rotary_Encoder_Switch-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61AEAF3A</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_U262-161N-4BVC11</value>
+      <footprint>josh-connectors:USB_C_U262-161N-4BVC11</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="LCSC">C319148</field>
+        <field name="MPN">U262-161N-4BVC11</field>
+        <field name="Manufacturer">XKB Enterprise</field>
+        <field name="Notes">Sub: USB4105-GF-A (available at Digikey)</field>
+      </fields>
+      <libsource lib="josh-connector" part="USB_C_U262-161N-4BVC11" description="USB 2.0-only Type-C Receptacle connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62417BB0</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>10u</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C19702</field>
+        <field name="LCSC">C19702</field>
+        <field name="MPN">CL10A106KP8NNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62422B70</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>5k1</value>
+      <footprint>keyboard_parts:R_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C23186</field>
+        <field name="LCSC">C23186</field>
+        <field name="MPN">0603WAF5101T5E</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>624E8610</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>5k1</value>
+      <footprint>keyboard_parts:R_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C23186</field>
+        <field name="LCSC">C23186</field>
+        <field name="MPN">0603WAF5101T5E</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>624ECF13</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>USBLC6-2SC6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www2.st.com/resource/en/datasheet/CD00050750.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C7519</field>
+        <field name="LCSC">C7519</field>
+        <field name="MPN">USBLC6-2SC6</field>
+        <field name="Manufacturer">STMicroelectronics</field>
+      </fields>
+      <libsource lib="josh-ic" part="USBLC6-2SC6" description="Bidirectional ESD Protection Diode, SOT-23-6"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>625488C2</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>500mA</value>
+      <footprint>josh-passives-smt:Fuse_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C66452</field>
+        <field name="LCSC">C66452</field>
+        <field name="MPN">SMD0805-050</field>
+        <field name="Manufacturer">TECHFUSE</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="Polyfuse-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>625507B4</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>1u</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C15849</field>
+        <field name="LCSC">C15849</field>
+        <field name="MPN">CL10A105KB8NNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62B7D9BB</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>AP2112K-3.3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/AP2112.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C51118</field>
+        <field name="LCSC">C51118</field>
+        <field name="MPN">AP2112K-3.3TRG1</field>
+        <field name="Manufacturer">Diodes Incorporated</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="AP2112K-3.3-Regulator_Linear" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62BBFC35</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>1u</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C15849</field>
+        <field name="LCSC">C15849</field>
+        <field name="MPN">CL10A105KB8NNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62BC3CE6</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62EAE0C5</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F2B662</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F678DB</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F67900</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62FA568B</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62FA56BE</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62FA56E3</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62FA5708</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62FE79E7</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62FE7A0C</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62FE7A31</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62FE7A56</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62FE7A7B</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62FE7AA0</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62FE7AC5</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62FE7AEA</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6303A0BD</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6303A0E2</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6303A107</tstamp>
+    </comp>
+    <comp ref="C33">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6303A12C</tstamp>
+    </comp>
+    <comp ref="C34">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6303A151</tstamp>
+    </comp>
+    <comp ref="C35">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6303A176</tstamp>
+    </comp>
+    <comp ref="C36">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6303A19B</tstamp>
+    </comp>
+    <comp ref="C37">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6303A1C0</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>EVQPUL02K</value>
+      <footprint>josh-buttons-switches:Panasonic_EVQPUL_EVQPUC</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C79175</field>
+        <field name="MPN">EVQPUL02K</field>
+        <field name="Manufacturer">PANASONIC</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="SW_Push-Switch" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>630E473D</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>DTC123J</value>
+      <footprint>DTC123JKAT146:SOT95P280X100-3N</footprint>
+      <fields>
+        <field name="JLCSMT">C111724</field>
+        <field name="LCSC">C111724</field>
+        <field name="MPN">DTC123JKAT146</field>
+        <field name="Manufacturer">ROHM Semicon</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="DTC123J-Transistor_BJT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>630E76D6</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>630ECA12</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>100K</value>
+      <footprint>keyboard_parts:R_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C25803</field>
+        <field name="LCSC">C25803</field>
+        <field name="MPN">0603WAF1003T5E</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63180583</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>10u</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C19702</field>
+        <field name="LCSC">C19702</field>
+        <field name="MPN">CL10A106KP8NNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63213AF1</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>4u7</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C19666</field>
+        <field name="LCSC">C19666</field>
+        <field name="MPN">CL10A475KO8NNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6325D463</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>SWD</value>
+      <footprint>josh-connectors:STM_4_PIN_THT_Staggered</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="Conn_01x04_Male-Connector" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>637B6891</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>5K1</value>
+      <footprint>keyboard_parts:R_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C23186</field>
+        <field name="LCSC">C23186</field>
+        <field name="MPN">0603WAF5101T5E</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63A3116C</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>LE_RED</value>
+      <footprint>josh-led:LED_0603_1608Metric_45_noSilk</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C2286</field>
+        <field name="LCSC">C2286</field>
+        <field name="MPN">KT-0603R</field>
+        <field name="Manufacturer">Hubei KENTO Elec</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="LED-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63A7F48C</tstamp>
+    </comp>
+    <comp ref="BZ1">
+      <value>Buzzer</value>
+      <footprint>Buzzer_Beeper:Buzzer_Murata_PKMCS0909E4000-R1</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C910763</field>
+        <field name="MPN">PKMCS0909E4000-R1</field>
+        <field name="Manufacturer">Murata Electronics</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="Buzzer-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B71DE4</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>keyboard_parts:R_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C25804</field>
+        <field name="LCSC">C25804</field>
+        <field name="MPN">0603WAF1002T5E</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612B4032</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>keyboard_parts:R_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C25804</field>
+        <field name="LCSC">C25804</field>
+        <field name="MPN">0603WAF1002T5E</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612BCBEB</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>BSS138</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C82045</field>
+        <field name="LCSC">C82045</field>
+        <field name="MPN">BSS138LT1G</field>
+        <field name="Manufacturer">ON Semicon</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="BSS138-Transistor_FET" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6131CC8A</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6194774F</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>618DE988</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>618DE961</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6187C8BB</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616C45FE</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61A965EF</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61A96616</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61A9663D</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61A96664</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61A9668B</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B107F3</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B1081A</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B10841</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B10912</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B10939</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B10961</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B10988</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B109AF</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B109D6</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="JLCSMT">C114586</field>
+        <field name="LCSC">C114586</field>
+        <field name="MPN">WS2812B-B </field>
+        <field name="Manufacturer">Worldsemi</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B109FD</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>SK6812-MINI-E</value>
+      <footprint>josh-led:SK8612-MINI-E</footprint>
+      <fields>
+        <field name="MPN">SK6812-MINI-E</field>
+        <field name="Manufacturer">Shenzhen LED Color</field>
+        <field name="Notes">https://www.aliexpress.com/i/4000476037223.html</field>
+      </fields>
+      <libsource lib="josh-led" part="SK6812-MINI-E" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6201028C</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>SK6812-MINI-E</value>
+      <footprint>josh-led:SK8612-MINI-E</footprint>
+      <fields>
+        <field name="MPN">SK6812-MINI-E</field>
+        <field name="Manufacturer">Shenzhen LED Color</field>
+        <field name="Notes">https://www.aliexpress.com/i/4000476037223.html</field>
+      </fields>
+      <libsource lib="josh-led" part="SK6812-MINI-E" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62311786</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>SK6812-MINI-E</value>
+      <footprint>josh-led:SK8612-MINI-E</footprint>
+      <fields>
+        <field name="MPN">SK6812-MINI-E</field>
+        <field name="Manufacturer">Shenzhen LED Color</field>
+        <field name="Notes">https://www.aliexpress.com/i/4000476037223.html</field>
+      </fields>
+      <libsource lib="josh-led" part="SK6812-MINI-E" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6239385A</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>SK6812-MINI-E</value>
+      <footprint>josh-led:SK8612-MINI-E</footprint>
+      <fields>
+        <field name="MPN">SK6812-MINI-E</field>
+        <field name="Manufacturer">Shenzhen LED Color</field>
+        <field name="Notes">https://www.aliexpress.com/i/4000476037223.html</field>
+      </fields>
+      <libsource lib="josh-led" part="SK6812-MINI-E" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6239387E</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>1K5</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C22843</field>
+        <field name="LCSC">C22843</field>
+        <field name="MPN">C22843</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63C5647F</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>15p</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C1644</field>
+        <field name="LCSC">C1644</field>
+        <field name="MPN">CL10C150JB8NNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>648CB569</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>15p</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C1644</field>
+        <field name="LCSC">C1644</field>
+        <field name="MPN">CL10C150JB8NNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64873497</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>8MHz</value>
+      <footprint>josh-oscillators:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C403948</field>
+        <field name="LCSC">C403948</field>
+        <field name="MPN">TAXM8M4RFDCET2T</field>
+        <field name="Manufacturer">TAE(Zhejiang Abel Elec)</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="Crystal_GND24-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6486BA49</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>4u7</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C19666</field>
+        <field name="LCSC">C19666</field>
+        <field name="MPN">CL10A475KO8NNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6402CF5E</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63FDE8A4</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63F8F7F3</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63F8F7E5</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63F4117C</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>keyboard_parts:C_1608</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCSMT">C14663</field>
+        <field name="LCSC">C14663</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63F3F25E</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>STM32F303RCTx</value>
+      <footprint>Package_QFP:LQFP-64_10x10mm_P0.5mm</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf</datasheet>
+      <fields>
+        <field name="Field7">STMicroelectronics</field>
+        <field name="JLCSMT">C65361</field>
+        <field name="LCSC">C65361</field>
+        <field name="MPN">Manufacturer</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="STM32F303RCTx-MCU_ST_STM32F3" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63F399A2</tstamp>
+    </comp>
+    <comp ref="K_33">
+      <value>1,17</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66235C1A</tstamp>
+    </comp>
+    <comp ref="D_32">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66235C28</tstamp>
+    </comp>
+    <comp ref="K_51">
+      <value>2,17</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66235C36</tstamp>
+    </comp>
+    <comp ref="D_49">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66235C44</tstamp>
+    </comp>
+    <comp ref="K_70">
+      <value>3,18</value>
+      <footprint>josh-keyboard:MXOnly-2U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66235C53</tstamp>
+    </comp>
+    <comp ref="D_66">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66235C61</tstamp>
+    </comp>
+    <comp ref="K_89">
+      <value>4,18</value>
+      <footprint>josh-keyboard:MXOnly-2U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66235C70</tstamp>
+    </comp>
+    <comp ref="D_83">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66235C7E</tstamp>
+    </comp>
+    <comp ref="K_108">
+      <value>5,18</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66235C8F</tstamp>
+    </comp>
+    <comp ref="D_100">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66235C9D</tstamp>
+    </comp>
+    <comp ref="K_72">
+      <value>4,17</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66235CAD</tstamp>
+    </comp>
+    <comp ref="K_53">
+      <value>3,17</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66235CBE</tstamp>
+    </comp>
+    <comp ref="K_16">
+      <value>0,14</value>
+      <footprint>josh-keyboard:MXOnly-1U-NoLED</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="josh-keyboard" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6669A1EA</tstamp>
+    </comp>
+    <comp ref="D_15">
+      <value>1N4148</value>
+      <footprint>1N4148_SOD-123_:SOD3716X135N</footprint>
+      <fields>
+        <field name="JLCSMT">C81598</field>
+        <field name="LCSC">C81598</field>
+        <field name="MPN">1N4148W</field>
+        <field name="Manufacturer">Semtech</field>
+      </fields>
+      <libsource lib="Keyboard-rescue" part="D_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6669A208</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="AP2112K-3.3-Regulator_Linear">
+      <footprints>
+        <fp>SOT?23?5*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP2112K-3.3-Regulator_Linear</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="NotConnected"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="BSS138-Transistor_FET">
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BSS138-Transistor_FET</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="Buzzer-Device">
+      <footprints>
+        <fp>*Buzzer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">BZ</field>
+        <field name="Value">Buzzer-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-" type="passive"/>
+        <pin num="2" name="+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="C-Device">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="Conn_01x04_Male-Connector">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Male-Connector</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="Crystal_GND24-Device">
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="DTC123J-Transistor_BJT">
+      <footprints>
+        <fp>SOT?23*</fp>
+        <fp>SC?59*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">DTC123J-Transistor_BJT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="D_Small-Device">
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="LED-Device">
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="Polyfuse-Device">
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="R-Device">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="Rotary_Encoder_Switch-Device">
+      <footprints>
+        <fp>RotaryEncoder*Switch*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Rotary_Encoder_Switch-Device</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="B" name="B" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+        <pin num="S1" name="S1" type="passive"/>
+        <pin num="S2" name="S2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="STM32F303RCTx-MCU_ST_STM32F3">
+      <footprints>
+        <fp>LQFP*10x10mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F303RCTx-MCU_ST_STM32F3</field>
+        <field name="Footprint">Package_QFP:LQFP-64_10x10mm_P0.5mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="power_in"/>
+        <pin num="2" name="PC13" type="BiDi"/>
+        <pin num="3" name="PC14" type="BiDi"/>
+        <pin num="4" name="PC15" type="BiDi"/>
+        <pin num="5" name="PF0" type="input"/>
+        <pin num="6" name="PF1" type="input"/>
+        <pin num="7" name="NRST" type="input"/>
+        <pin num="8" name="PC0" type="BiDi"/>
+        <pin num="9" name="PC1" type="BiDi"/>
+        <pin num="10" name="PC2" type="BiDi"/>
+        <pin num="11" name="PC3" type="BiDi"/>
+        <pin num="12" name="VSSA" type="power_in"/>
+        <pin num="13" name="VDDA" type="power_in"/>
+        <pin num="14" name="PA0" type="BiDi"/>
+        <pin num="15" name="PA1" type="BiDi"/>
+        <pin num="16" name="PA2" type="BiDi"/>
+        <pin num="17" name="PA3" type="BiDi"/>
+        <pin num="18" name="PF4" type="BiDi"/>
+        <pin num="19" name="VDD" type="power_in"/>
+        <pin num="20" name="PA4" type="BiDi"/>
+        <pin num="21" name="PA5" type="BiDi"/>
+        <pin num="22" name="PA6" type="BiDi"/>
+        <pin num="23" name="PA7" type="BiDi"/>
+        <pin num="24" name="PC4" type="BiDi"/>
+        <pin num="25" name="PC5" type="BiDi"/>
+        <pin num="26" name="PB0" type="BiDi"/>
+        <pin num="27" name="PB1" type="BiDi"/>
+        <pin num="28" name="PB2" type="BiDi"/>
+        <pin num="29" name="PB10" type="BiDi"/>
+        <pin num="30" name="PB11" type="BiDi"/>
+        <pin num="31" name="VSS" type="power_in"/>
+        <pin num="32" name="VDD" type="power_in"/>
+        <pin num="33" name="PB12" type="BiDi"/>
+        <pin num="34" name="PB13" type="BiDi"/>
+        <pin num="35" name="PB14" type="BiDi"/>
+        <pin num="36" name="PB15" type="BiDi"/>
+        <pin num="37" name="PC6" type="BiDi"/>
+        <pin num="38" name="PC7" type="BiDi"/>
+        <pin num="39" name="PC8" type="BiDi"/>
+        <pin num="40" name="PC9" type="BiDi"/>
+        <pin num="41" name="PA8" type="BiDi"/>
+        <pin num="42" name="PA9" type="BiDi"/>
+        <pin num="43" name="PA10" type="BiDi"/>
+        <pin num="44" name="PA11" type="BiDi"/>
+        <pin num="45" name="PA12" type="BiDi"/>
+        <pin num="46" name="PA13" type="BiDi"/>
+        <pin num="47" name="VSS" type="power_in"/>
+        <pin num="48" name="VDD" type="power_in"/>
+        <pin num="49" name="PA14" type="BiDi"/>
+        <pin num="50" name="PA15" type="BiDi"/>
+        <pin num="51" name="PC10" type="BiDi"/>
+        <pin num="52" name="PC11" type="BiDi"/>
+        <pin num="53" name="PC12" type="BiDi"/>
+        <pin num="54" name="PD2" type="BiDi"/>
+        <pin num="55" name="PB3" type="BiDi"/>
+        <pin num="56" name="PB4" type="BiDi"/>
+        <pin num="57" name="PB5" type="BiDi"/>
+        <pin num="58" name="PB6" type="BiDi"/>
+        <pin num="59" name="PB7" type="BiDi"/>
+        <pin num="60" name="BOOT0" type="input"/>
+        <pin num="61" name="PB8" type="BiDi"/>
+        <pin num="62" name="PB9" type="BiDi"/>
+        <pin num="63" name="VSS" type="power_in"/>
+        <pin num="64" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Keyboard-rescue" part="SW_Push-Switch">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push-Switch</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="josh-connector" part="USB_C_U262-161N-4BVC11">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://datasheet.lcsc.com/szlcsc/1811141824_XKB-Enterprise-U262-161N-4BVC11_C319148.pdf</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_U262-161N-4BVC11</field>
+        <field name="Footprint">josh-connectors:USB_C_U262-161N-4BVC11</field>
+        <field name="MPN">U262-161N-4BVC11</field>
+        <field name="LCSC">C319148</field>
+        <field name="Manufacturer">XKB Enterprise</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="power_in"/>
+        <pin num="A4" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="BiDi"/>
+        <pin num="A6" name="D+" type="BiDi"/>
+        <pin num="A7" name="D-" type="BiDi"/>
+        <pin num="A8" name="SBU1" type="BiDi"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="BiDi"/>
+        <pin num="B6" name="D+" type="BiDi"/>
+        <pin num="B7" name="D-" type="BiDi"/>
+        <pin num="B8" name="SBU2" type="BiDi"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="josh-ic" part="USBLC6-2SC6">
+      <description>Bidirectional ESD Protection Diode, SOT-23-6</description>
+      <docs>http://www2.st.com/resource/en/datasheet/CD00050750.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">USBLC6-2SC6</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IO1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="IO2" type="passive"/>
+        <pin num="4" name="IO2" type="passive"/>
+        <pin num="5" name="VBUS" type="passive"/>
+        <pin num="6" name="IO1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="josh-keyboard" part="MX-NoLED">
+      <fields>
+        <field name="Reference">MX</field>
+        <field name="Value">MX-NoLED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COL" type="passive"/>
+        <pin num="2" name="ROW" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="josh-led" part="SK6812-MINI-E">
+      <description>RGB LED with integrated controller</description>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SK6812-MINI-E</field>
+        <field name="Footprint">josh-led:SK8612-MINI-E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Keyboard-rescue">
+      <uri>C:\Users\mattr\Documents\GitHub\Orthonite87\PCB\0.1/Keyboard-rescue.lib</uri>
+    </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\share\kicad\library/LED.lib</uri>
+    </library>
+    <library logical="josh-connector">
+      <uri>C:\Users\mattr\Documents\GitHub\Orthonite87\PCB\0.1/../Libraries/josh-kicad-lib/josh-connector.lib</uri>
+    </library>
+    <library logical="josh-ic">
+      <uri>C:\Users\mattr\Documents\GitHub\Orthonite87\PCB\0.1/../Libraries/josh-kicad-lib/josh-ic.lib</uri>
+    </library>
+    <library logical="josh-keyboard">
+      <uri>C:\Users\mattr\Documents\GitHub\Orthonite87\PCB\0.1/../Libraries/josh-kicad-lib/josh-keyboard.lib</uri>
+    </library>
+    <library logical="josh-led">
+      <uri>C:\Users\mattr\Documents\GitHub\Orthonite87\PCB\0.1/../Libraries/josh-kicad-lib/josh-led.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D10-Pad2)">
+      <node ref="D11" pin="4"/>
+      <node ref="D10" pin="2"/>
+    </net>
+    <net code="2" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2"/>
+      <node ref="D12" pin="4"/>
+    </net>
+    <net code="3" name="+5V">
+      <node ref="D22" pin="1"/>
+      <node ref="C32" pin="2"/>
+      <node ref="C33" pin="2"/>
+      <node ref="C34" pin="2"/>
+      <node ref="D21" pin="1"/>
+      <node ref="C35" pin="2"/>
+      <node ref="C36" pin="2"/>
+      <node ref="C37" pin="2"/>
+      <node ref="D16" pin="1"/>
+      <node ref="C31" pin="2"/>
+      <node ref="D23" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="C29" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="D5" pin="1"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C22" pin="2"/>
+      <node ref="D3" pin="1"/>
+      <node ref="C23" pin="2"/>
+      <node ref="C24" pin="2"/>
+      <node ref="C25" pin="2"/>
+      <node ref="C26" pin="2"/>
+      <node ref="C27" pin="2"/>
+      <node ref="C28" pin="2"/>
+      <node ref="D2" pin="1"/>
+      <node ref="C30" pin="2"/>
+      <node ref="D25" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="C18" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D18" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="Y1" pin="4"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="D13" pin="1"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="D1" pin="3"/>
+      <node ref="D2" pin="3"/>
+      <node ref="Y1" pin="2"/>
+      <node ref="D3" pin="3"/>
+      <node ref="D5" pin="3"/>
+      <node ref="D10" pin="3"/>
+      <node ref="D4" pin="3"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C1" pin="2"/>
+      <node ref="J2" pin="3"/>
+      <node ref="C10" pin="2"/>
+      <node ref="U3" pin="63"/>
+      <node ref="BZ1" pin="2"/>
+      <node ref="U3" pin="47"/>
+      <node ref="U3" pin="31"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="D23" pin="3"/>
+      <node ref="J1" pin="A1"/>
+      <node ref="K_1" pin="C"/>
+      <node ref="D24" pin="3"/>
+      <node ref="U2" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="J1" pin="S1"/>
+      <node ref="J1" pin="B12"/>
+      <node ref="J1" pin="B1"/>
+      <node ref="D17" pin="3"/>
+      <node ref="D21" pin="3"/>
+      <node ref="D22" pin="3"/>
+      <node ref="J1" pin="A12"/>
+      <node ref="D16" pin="3"/>
+      <node ref="C9" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="D20" pin="3"/>
+      <node ref="D19" pin="3"/>
+      <node ref="D18" pin="3"/>
+      <node ref="D13" pin="3"/>
+      <node ref="D12" pin="3"/>
+      <node ref="D11" pin="3"/>
+      <node ref="D14" pin="3"/>
+      <node ref="U3" pin="12"/>
+      <node ref="D6" pin="3"/>
+      <node ref="D15" pin="3"/>
+      <node ref="D9" pin="3"/>
+      <node ref="D8" pin="3"/>
+      <node ref="D7" pin="3"/>
+      <node ref="C31" pin="1"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C25" pin="1"/>
+      <node ref="C32" pin="1"/>
+      <node ref="C26" pin="1"/>
+      <node ref="C24" pin="1"/>
+      <node ref="C23" pin="1"/>
+      <node ref="C33" pin="1"/>
+      <node ref="C14" pin="1"/>
+      <node ref="C29" pin="1"/>
+      <node ref="C28" pin="1"/>
+      <node ref="R7" pin="2"/>
+      <node ref="C30" pin="1"/>
+      <node ref="C12" pin="2"/>
+      <node ref="C27" pin="1"/>
+      <node ref="C36" pin="1"/>
+      <node ref="C37" pin="1"/>
+      <node ref="Q2" pin="2"/>
+      <node ref="C17" pin="1"/>
+      <node ref="C20" pin="1"/>
+      <node ref="C34" pin="1"/>
+      <node ref="C19" pin="1"/>
+      <node ref="C15" pin="1"/>
+      <node ref="C16" pin="1"/>
+      <node ref="C21" pin="1"/>
+      <node ref="C22" pin="1"/>
+      <node ref="C35" pin="1"/>
+      <node ref="C18" pin="1"/>
+    </net>
+    <net code="5" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2"/>
+      <node ref="D13" pin="4"/>
+    </net>
+    <net code="6" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2"/>
+      <node ref="D14" pin="4"/>
+    </net>
+    <net code="7" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2"/>
+      <node ref="D19" pin="4"/>
+    </net>
+    <net code="8" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2"/>
+      <node ref="D20" pin="4"/>
+    </net>
+    <net code="9" name="Net-(D20-Pad2)">
+      <node ref="D21" pin="4"/>
+      <node ref="D20" pin="2"/>
+    </net>
+    <net code="10" name="Net-(D8-Pad2)">
+      <node ref="D9" pin="4"/>
+      <node ref="D8" pin="2"/>
+    </net>
+    <net code="11" name="Net-(D7-Pad2)">
+      <node ref="D8" pin="4"/>
+      <node ref="D7" pin="2"/>
+    </net>
+    <net code="12" name="Net-(D10-Pad4)">
+      <node ref="D9" pin="2"/>
+      <node ref="D10" pin="4"/>
+    </net>
+    <net code="13" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2"/>
+      <node ref="D15" pin="4"/>
+    </net>
+    <net code="14" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="D6" pin="4"/>
+    </net>
+    <net code="15" name="Net-(D6-Pad2)">
+      <node ref="D7" pin="4"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="16" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2"/>
+    </net>
+    <net code="17" name="Net-(D23-Pad2)">
+      <node ref="D24" pin="4"/>
+      <node ref="D23" pin="2"/>
+    </net>
+    <net code="18" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2"/>
+      <node ref="D23" pin="4"/>
+    </net>
+    <net code="19" name="BUZZER">
+      <node ref="BZ1" pin="1"/>
+      <node ref="U3" pin="20"/>
+    </net>
+    <net code="20" name="Net-(D16-Pad2)">
+      <node ref="D17" pin="4"/>
+      <node ref="D16" pin="2"/>
+    </net>
+    <net code="21" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2"/>
+      <node ref="D16" pin="4"/>
+    </net>
+    <net code="22" name="Net-(D17-Pad2)">
+      <node ref="D18" pin="4"/>
+      <node ref="D17" pin="2"/>
+    </net>
+    <net code="23" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2"/>
+      <node ref="D22" pin="4"/>
+    </net>
+    <net code="24" name="+3V3">
+      <node ref="C6" pin="2"/>
+      <node ref="U3" pin="19"/>
+      <node ref="R5" pin="1"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C1" pin="1"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="U3" pin="1"/>
+      <node ref="U3" pin="13"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="U3" pin="32"/>
+      <node ref="C9" pin="2"/>
+      <node ref="R2" pin="1"/>
+      <node ref="U3" pin="48"/>
+      <node ref="U1" pin="5"/>
+      <node ref="R6" pin="1"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="U3" pin="64"/>
+    </net>
+    <net code="25" name="Net-(D26-Pad2)">
+      <node ref="Q2" pin="1"/>
+      <node ref="SW1" pin="2"/>
+      <node ref="D26" pin="2"/>
+    </net>
+    <net code="26" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2"/>
+      <node ref="D5" pin="4"/>
+    </net>
+    <net code="27" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="D4" pin="4"/>
+    </net>
+    <net code="28" name="Net-(D1-Pad2)">
+      <node ref="D2" pin="4"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="29" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="D3" pin="4"/>
+    </net>
+    <net code="30" name="/SWDCLK">
+      <node ref="U3" pin="49"/>
+      <node ref="J2" pin="4"/>
+    </net>
+    <net code="31" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="32" name="/SWDIO">
+      <node ref="J2" pin="2"/>
+      <node ref="U3" pin="46"/>
+    </net>
+    <net code="33" name="/nRST">
+      <node ref="J2" pin="1"/>
+      <node ref="U3" pin="7"/>
+      <node ref="C12" pin="1"/>
+      <node ref="Q2" pin="3"/>
+    </net>
+    <net code="34" name="/BOOT0">
+      <node ref="R7" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="U3" pin="60"/>
+    </net>
+    <net code="35" name="Net-(D1-Pad4)">
+      <node ref="D1" pin="4"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="36" name="/underglow">
+      <node ref="Q1" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="U3" pin="36"/>
+    </net>
+    <net code="37" name="Net-(D_83-Pad2)">
+      <node ref="K_89" pin="2"/>
+      <node ref="D_83" pin="2"/>
+      <node ref="K_72" pin="2"/>
+    </net>
+    <net code="38" name="Net-(D_100-Pad2)">
+      <node ref="D_100" pin="2"/>
+      <node ref="K_108" pin="2"/>
+    </net>
+    <net code="39" name="Net-(D_66-Pad2)">
+      <node ref="D_66" pin="2"/>
+      <node ref="K_53" pin="2"/>
+      <node ref="K_70" pin="2"/>
+    </net>
+    <net code="40" name="Net-(D_15-Pad2)">
+      <node ref="D_15" pin="2"/>
+      <node ref="K_16" pin="2"/>
+    </net>
+    <net code="41" name="col16">
+      <node ref="K_89" pin="1"/>
+      <node ref="K_33" pin="1"/>
+      <node ref="K_108" pin="1"/>
+      <node ref="K_51" pin="1"/>
+      <node ref="U3" pin="41"/>
+      <node ref="K_72" pin="1"/>
+      <node ref="K_70" pin="1"/>
+      <node ref="K_53" pin="1"/>
+    </net>
+    <net code="42" name="Net-(U3-Pad39)">
+      <node ref="U3" pin="39"/>
+    </net>
+    <net code="43" name="Net-(U3-Pad50)">
+      <node ref="U3" pin="50"/>
+    </net>
+    <net code="44" name="Net-(U3-Pad43)">
+      <node ref="U3" pin="43"/>
+    </net>
+    <net code="45" name="Net-(U3-Pad42)">
+      <node ref="U3" pin="42"/>
+    </net>
+    <net code="46" name="Net-(U3-Pad40)">
+      <node ref="U3" pin="40"/>
+    </net>
+    <net code="47" name="Net-(U3-Pad38)">
+      <node ref="U3" pin="38"/>
+    </net>
+    <net code="48" name="Net-(U3-Pad37)">
+      <node ref="U3" pin="37"/>
+    </net>
+    <net code="49" name="Net-(D_49-Pad2)">
+      <node ref="D_49" pin="2"/>
+      <node ref="K_51" pin="2"/>
+    </net>
+    <net code="50" name="Net-(D_32-Pad2)">
+      <node ref="D_32" pin="2"/>
+      <node ref="K_33" pin="2"/>
+    </net>
+    <net code="51" name="Net-(U3-Pad59)">
+      <node ref="U3" pin="59"/>
+    </net>
+    <net code="52" name="Net-(U3-Pad58)">
+      <node ref="U3" pin="58"/>
+    </net>
+    <net code="53" name="Net-(U3-Pad57)">
+      <node ref="U3" pin="57"/>
+    </net>
+    <net code="54" name="Net-(U3-Pad56)">
+      <node ref="U3" pin="56"/>
+    </net>
+    <net code="55" name="Net-(U3-Pad55)">
+      <node ref="U3" pin="55"/>
+    </net>
+    <net code="56" name="Net-(U3-Pad54)">
+      <node ref="U3" pin="54"/>
+    </net>
+    <net code="57" name="col14">
+      <node ref="K_49" pin="1"/>
+      <node ref="K_68" pin="1"/>
+      <node ref="K_31" pin="1"/>
+      <node ref="K_16" pin="1"/>
+      <node ref="K_87" pin="1"/>
+      <node ref="U3" pin="22"/>
+      <node ref="K_106" pin="1"/>
+    </net>
+    <net code="58" name="Net-(U3-Pad24)">
+      <node ref="U3" pin="24"/>
+    </net>
+    <net code="59" name="Net-(U3-Pad18)">
+      <node ref="U3" pin="18"/>
+    </net>
+    <net code="60" name="Net-(U3-Pad21)">
+      <node ref="U3" pin="21"/>
+    </net>
+    <net code="61" name="Net-(U3-Pad16)">
+      <node ref="U3" pin="16"/>
+    </net>
+    <net code="62" name="Net-(U3-Pad15)">
+      <node ref="U3" pin="15"/>
+    </net>
+    <net code="63" name="Net-(U3-Pad14)">
+      <node ref="U3" pin="14"/>
+    </net>
+    <net code="64" name="/USB_D-">
+      <node ref="U3" pin="44"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="65" name="/USB_D+">
+      <node ref="R5" pin="2"/>
+      <node ref="U2" pin="4"/>
+      <node ref="U3" pin="45"/>
+    </net>
+    <net code="66" name="Net-(C8-Pad2)">
+      <node ref="F1" pin="1"/>
+      <node ref="U1" pin="3"/>
+      <node ref="C8" pin="2"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="67" name="/XTAL_0">
+      <node ref="Y1" pin="3"/>
+      <node ref="C10" pin="1"/>
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="68" name="/XTAL_1">
+      <node ref="C11" pin="1"/>
+      <node ref="Y1" pin="1"/>
+      <node ref="U3" pin="6"/>
+    </net>
+    <net code="69" name="Net-(D_38-Pad2)">
+      <node ref="D_38" pin="2"/>
+      <node ref="K_40" pin="2"/>
+    </net>
+    <net code="70" name="Net-(D_37-Pad2)">
+      <node ref="K_39" pin="2"/>
+      <node ref="D_37" pin="2"/>
+    </net>
+    <net code="71" name="Net-(D_36-Pad2)">
+      <node ref="D_36" pin="2"/>
+      <node ref="K_38" pin="2"/>
+    </net>
+    <net code="72" name="Net-(D_39-Pad2)">
+      <node ref="D_39" pin="2"/>
+      <node ref="K_41" pin="2"/>
+    </net>
+    <net code="73" name="Net-(D_34-Pad2)">
+      <node ref="K_36" pin="2"/>
+      <node ref="D_34" pin="2"/>
+      <node ref="K_34" pin="2"/>
+    </net>
+    <net code="74" name="Net-(D_33-Pad2)">
+      <node ref="D_33" pin="2"/>
+      <node ref="K_35" pin="2"/>
+    </net>
+    <net code="75" name="Net-(D_35-Pad2)">
+      <node ref="K_37" pin="2"/>
+      <node ref="D_35" pin="2"/>
+    </net>
+    <net code="76" name="Net-(D_43-Pad2)">
+      <node ref="K_45" pin="2"/>
+      <node ref="D_43" pin="2"/>
+    </net>
+    <net code="77" name="row2">
+      <node ref="D_40" pin="1"/>
+      <node ref="D_33" pin="1"/>
+      <node ref="D_38" pin="1"/>
+      <node ref="D_41" pin="1"/>
+      <node ref="U3" pin="53"/>
+      <node ref="D_34" pin="1"/>
+      <node ref="D_37" pin="1"/>
+      <node ref="D_49" pin="1"/>
+      <node ref="D_43" pin="1"/>
+      <node ref="D_35" pin="1"/>
+      <node ref="D_46" pin="1"/>
+      <node ref="D_45" pin="1"/>
+      <node ref="D_36" pin="1"/>
+      <node ref="D_39" pin="1"/>
+      <node ref="D_47" pin="1"/>
+      <node ref="D_42" pin="1"/>
+      <node ref="D_48" pin="1"/>
+      <node ref="D_44" pin="1"/>
+    </net>
+    <net code="78" name="Net-(D_42-Pad2)">
+      <node ref="K_44" pin="2"/>
+      <node ref="D_42" pin="2"/>
+    </net>
+    <net code="79" name="Net-(D_44-Pad2)">
+      <node ref="D_44" pin="2"/>
+      <node ref="K_46" pin="2"/>
+    </net>
+    <net code="80" name="Net-(D_41-Pad2)">
+      <node ref="D_41" pin="2"/>
+      <node ref="K_43" pin="2"/>
+    </net>
+    <net code="81" name="Net-(D_40-Pad2)">
+      <node ref="D_40" pin="2"/>
+      <node ref="K_42" pin="2"/>
+    </net>
+    <net code="82" name="Net-(D_48-Pad2)">
+      <node ref="K_50" pin="2"/>
+      <node ref="D_48" pin="2"/>
+    </net>
+    <net code="83" name="Net-(D_47-Pad2)">
+      <node ref="D_47" pin="2"/>
+      <node ref="K_49" pin="2"/>
+    </net>
+    <net code="84" name="Net-(D_46-Pad2)">
+      <node ref="D_46" pin="2"/>
+      <node ref="K_48" pin="2"/>
+    </net>
+    <net code="85" name="Net-(D_45-Pad2)">
+      <node ref="K_47" pin="2"/>
+      <node ref="D_45" pin="2"/>
+    </net>
+    <net code="86" name="Net-(D_56-Pad2)">
+      <node ref="D_56" pin="2"/>
+      <node ref="K_60" pin="2"/>
+    </net>
+    <net code="87" name="Net-(D_65-Pad2)">
+      <node ref="D_65" pin="2"/>
+      <node ref="K_69" pin="2"/>
+    </net>
+    <net code="88" name="Net-(D_64-Pad2)">
+      <node ref="K_68" pin="2"/>
+      <node ref="D_64" pin="2"/>
+    </net>
+    <net code="89" name="Net-(D_63-Pad2)">
+      <node ref="D_63" pin="2"/>
+      <node ref="K_67" pin="2"/>
+    </net>
+    <net code="90" name="Net-(D_62-Pad2)">
+      <node ref="D_62" pin="2"/>
+      <node ref="K_66" pin="2"/>
+    </net>
+    <net code="91" name="Net-(D_52-Pad2)">
+      <node ref="K_56" pin="2"/>
+      <node ref="D_52" pin="2"/>
+    </net>
+    <net code="92" name="Net-(D_53-Pad2)">
+      <node ref="K_57" pin="2"/>
+      <node ref="D_53" pin="2"/>
+    </net>
+    <net code="93" name="Net-(D_54-Pad2)">
+      <node ref="K_58" pin="2"/>
+      <node ref="D_54" pin="2"/>
+    </net>
+    <net code="94" name="Net-(D_55-Pad2)">
+      <node ref="D_55" pin="2"/>
+      <node ref="K_59" pin="2"/>
+    </net>
+    <net code="95" name="Net-(D_58-Pad2)">
+      <node ref="D_58" pin="2"/>
+      <node ref="K_62" pin="2"/>
+    </net>
+    <net code="96" name="Net-(D_57-Pad2)">
+      <node ref="D_57" pin="2"/>
+      <node ref="K_61" pin="2"/>
+    </net>
+    <net code="97" name="Net-(D_61-Pad2)">
+      <node ref="D_61" pin="2"/>
+      <node ref="K_65" pin="2"/>
+    </net>
+    <net code="98" name="Net-(D_60-Pad2)">
+      <node ref="D_60" pin="2"/>
+      <node ref="K_64" pin="2"/>
+    </net>
+    <net code="99" name="Net-(D_59-Pad2)">
+      <node ref="K_63" pin="2"/>
+      <node ref="D_59" pin="2"/>
+    </net>
+    <net code="100" name="Net-(D_3-Pad2)">
+      <node ref="D_3" pin="2"/>
+      <node ref="K_4" pin="2"/>
+    </net>
+    <net code="101" name="Net-(D_4-Pad2)">
+      <node ref="D_4" pin="2"/>
+      <node ref="K_5" pin="2"/>
+    </net>
+    <net code="102" name="Net-(D_5-Pad2)">
+      <node ref="D_5" pin="2"/>
+      <node ref="K_6" pin="2"/>
+    </net>
+    <net code="103" name="Net-(D_6-Pad2)">
+      <node ref="K_7" pin="2"/>
+      <node ref="D_6" pin="2"/>
+    </net>
+    <net code="104" name="Net-(D_7-Pad2)">
+      <node ref="K_8" pin="2"/>
+      <node ref="D_7" pin="2"/>
+    </net>
+    <net code="105" name="Net-(D_24-Pad2)">
+      <node ref="D_24" pin="2"/>
+      <node ref="K_25" pin="2"/>
+    </net>
+    <net code="106" name="Net-(D_23-Pad2)">
+      <node ref="D_23" pin="2"/>
+      <node ref="K_24" pin="2"/>
+    </net>
+    <net code="107" name="Net-(D_1-Pad2)">
+      <node ref="K_2" pin="2"/>
+      <node ref="D_1" pin="2"/>
+    </net>
+    <net code="108" name="Net-(D_2-Pad2)">
+      <node ref="K_3" pin="2"/>
+      <node ref="D_2" pin="2"/>
+    </net>
+    <net code="109" name="Net-(D_11-Pad2)">
+      <node ref="K_12" pin="2"/>
+      <node ref="D_11" pin="2"/>
+    </net>
+    <net code="110" name="Net-(D_10-Pad2)">
+      <node ref="K_11" pin="2"/>
+      <node ref="D_10" pin="2"/>
+    </net>
+    <net code="111" name="Net-(D_12-Pad2)">
+      <node ref="K_13" pin="2"/>
+      <node ref="D_12" pin="2"/>
+    </net>
+    <net code="112" name="Net-(D_9-Pad2)">
+      <node ref="K_10" pin="2"/>
+      <node ref="D_9" pin="2"/>
+    </net>
+    <net code="113" name="Net-(D_8-Pad2)">
+      <node ref="D_8" pin="2"/>
+      <node ref="K_9" pin="2"/>
+    </net>
+    <net code="114" name="row0">
+      <node ref="D_5" pin="1"/>
+      <node ref="D_6" pin="1"/>
+      <node ref="D_1" pin="1"/>
+      <node ref="D_15" pin="1"/>
+      <node ref="D_10" pin="1"/>
+      <node ref="U3" pin="51"/>
+      <node ref="D_16" pin="1"/>
+      <node ref="D_14" pin="1"/>
+      <node ref="D_12" pin="1"/>
+      <node ref="D_8" pin="1"/>
+      <node ref="D_9" pin="1"/>
+      <node ref="D_11" pin="1"/>
+      <node ref="D_3" pin="1"/>
+      <node ref="D_13" pin="1"/>
+      <node ref="D_2" pin="1"/>
+      <node ref="D_4" pin="1"/>
+      <node ref="D_7" pin="1"/>
+    </net>
+    <net code="115" name="Net-(D_16-Pad2)">
+      <node ref="D_16" pin="2"/>
+      <node ref="K_1" pin="S2"/>
+    </net>
+    <net code="116" name="Net-(D_14-Pad2)">
+      <node ref="D_14" pin="2"/>
+      <node ref="K_15" pin="2"/>
+    </net>
+    <net code="117" name="col12">
+      <node ref="K_66" pin="1"/>
+      <node ref="K_29" pin="1"/>
+      <node ref="K_14" pin="1"/>
+      <node ref="K_104" pin="1"/>
+      <node ref="U3" pin="4"/>
+      <node ref="K_85" pin="1"/>
+      <node ref="K_47" pin="1"/>
+    </net>
+    <net code="118" name="Net-(D_13-Pad2)">
+      <node ref="D_13" pin="2"/>
+      <node ref="K_14" pin="2"/>
+    </net>
+    <net code="119" name="Net-(D_18-Pad2)">
+      <node ref="D_18" pin="2"/>
+      <node ref="K_19" pin="2"/>
+    </net>
+    <net code="120" name="Net-(D_19-Pad2)">
+      <node ref="D_19" pin="2"/>
+      <node ref="K_20" pin="2"/>
+    </net>
+    <net code="121" name="Net-(D_20-Pad2)">
+      <node ref="K_21" pin="2"/>
+      <node ref="D_20" pin="2"/>
+    </net>
+    <net code="122" name="Net-(D_21-Pad2)">
+      <node ref="K_22" pin="2"/>
+      <node ref="D_21" pin="2"/>
+    </net>
+    <net code="123" name="Net-(D_17-Pad2)">
+      <node ref="D_17" pin="2"/>
+      <node ref="K_18" pin="2"/>
+    </net>
+    <net code="124" name="Net-(D_28-Pad2)">
+      <node ref="D_28" pin="2"/>
+      <node ref="K_29" pin="2"/>
+    </net>
+    <net code="125" name="Net-(D_27-Pad2)">
+      <node ref="D_27" pin="2"/>
+      <node ref="K_28" pin="2"/>
+    </net>
+    <net code="126" name="Net-(D_26-Pad2)">
+      <node ref="K_27" pin="2"/>
+      <node ref="D_26" pin="2"/>
+    </net>
+    <net code="127" name="Net-(D_25-Pad2)">
+      <node ref="K_26" pin="2"/>
+      <node ref="D_25" pin="2"/>
+    </net>
+    <net code="128" name="Net-(D_22-Pad2)">
+      <node ref="D_22" pin="2"/>
+      <node ref="K_23" pin="2"/>
+    </net>
+    <net code="129" name="row1">
+      <node ref="D_27" pin="1"/>
+      <node ref="D_29" pin="1"/>
+      <node ref="D_32" pin="1"/>
+      <node ref="D_31" pin="1"/>
+      <node ref="D_26" pin="1"/>
+      <node ref="D_24" pin="1"/>
+      <node ref="D_20" pin="1"/>
+      <node ref="D_23" pin="1"/>
+      <node ref="D_28" pin="1"/>
+      <node ref="D_18" pin="1"/>
+      <node ref="D_25" pin="1"/>
+      <node ref="U3" pin="52"/>
+      <node ref="D_21" pin="1"/>
+      <node ref="D_30" pin="1"/>
+      <node ref="D_17" pin="1"/>
+      <node ref="D_19" pin="1"/>
+      <node ref="D_22" pin="1"/>
+    </net>
+    <net code="130" name="Net-(D_30-Pad2)">
+      <node ref="D_30" pin="2"/>
+      <node ref="K_31" pin="2"/>
+    </net>
+    <net code="131" name="Net-(D_31-Pad2)">
+      <node ref="K_32" pin="2"/>
+      <node ref="D_31" pin="2"/>
+      <node ref="K_17" pin="2"/>
+    </net>
+    <net code="132" name="Net-(D_29-Pad2)">
+      <node ref="D_29" pin="2"/>
+      <node ref="K_30" pin="2"/>
+    </net>
+    <net code="133" name="col7">
+      <node ref="K_99" pin="1"/>
+      <node ref="K_9" pin="1"/>
+      <node ref="K_42" pin="1"/>
+      <node ref="U3" pin="10"/>
+      <node ref="K_61" pin="1"/>
+      <node ref="K_24" pin="1"/>
+      <node ref="K_80" pin="1"/>
+    </net>
+    <net code="134" name="col8">
+      <node ref="K_81" pin="1"/>
+      <node ref="U3" pin="9"/>
+      <node ref="K_100" pin="1"/>
+      <node ref="K_10" pin="1"/>
+      <node ref="K_62" pin="1"/>
+      <node ref="K_25" pin="1"/>
+      <node ref="K_43" pin="1"/>
+    </net>
+    <net code="135" name="col11">
+      <node ref="K_46" pin="1"/>
+      <node ref="K_103" pin="1"/>
+      <node ref="K_13" pin="1"/>
+      <node ref="K_65" pin="1"/>
+      <node ref="K_84" pin="1"/>
+      <node ref="K_28" pin="1"/>
+      <node ref="U3" pin="3"/>
+    </net>
+    <net code="136" name="col10">
+      <node ref="K_64" pin="1"/>
+      <node ref="K_27" pin="1"/>
+      <node ref="U3" pin="2"/>
+      <node ref="K_45" pin="1"/>
+      <node ref="K_83" pin="1"/>
+      <node ref="K_102" pin="1"/>
+      <node ref="K_12" pin="1"/>
+    </net>
+    <net code="137" name="col9">
+      <node ref="K_26" pin="1"/>
+      <node ref="K_101" pin="1"/>
+      <node ref="U3" pin="8"/>
+      <node ref="K_82" pin="1"/>
+      <node ref="K_11" pin="1"/>
+      <node ref="K_44" pin="1"/>
+      <node ref="K_63" pin="1"/>
+    </net>
+    <net code="138" name="Net-(D_84-Pad2)">
+      <node ref="K_92" pin="2"/>
+      <node ref="D_84" pin="2"/>
+    </net>
+    <net code="139" name="Net-(D_89-Pad2)">
+      <node ref="D_89" pin="2"/>
+      <node ref="K_97" pin="2"/>
+    </net>
+    <net code="140" name="Net-(D_90-Pad2)">
+      <node ref="K_98" pin="2"/>
+      <node ref="D_90" pin="2"/>
+    </net>
+    <net code="141" name="Net-(D_99-Pad2)">
+      <node ref="D_99" pin="2"/>
+      <node ref="K_107" pin="2"/>
+    </net>
+    <net code="142" name="Net-(D_98-Pad2)">
+      <node ref="K_106" pin="2"/>
+      <node ref="D_98" pin="2"/>
+    </net>
+    <net code="143" name="Net-(D_85-Pad2)">
+      <node ref="K_93" pin="2"/>
+      <node ref="D_85" pin="2"/>
+    </net>
+    <net code="144" name="Net-(D_86-Pad2)">
+      <node ref="K_94" pin="2"/>
+      <node ref="D_86" pin="2"/>
+    </net>
+    <net code="145" name="Net-(D_87-Pad2)">
+      <node ref="K_95" pin="2"/>
+      <node ref="D_87" pin="2"/>
+    </net>
+    <net code="146" name="Net-(D_88-Pad2)">
+      <node ref="D_88" pin="2"/>
+      <node ref="K_96" pin="2"/>
+    </net>
+    <net code="147" name="VBUS">
+      <node ref="J1" pin="B9"/>
+      <node ref="U2" pin="5"/>
+      <node ref="C7" pin="2"/>
+      <node ref="J1" pin="B4"/>
+      <node ref="J1" pin="A9"/>
+      <node ref="J1" pin="A4"/>
+      <node ref="F1" pin="2"/>
+    </net>
+    <net code="148" name="Net-(J1-PadB8)">
+      <node ref="J1" pin="B8"/>
+    </net>
+    <net code="149" name="Net-(J1-PadA8)">
+      <node ref="J1" pin="A8"/>
+    </net>
+    <net code="150" name="Net-(U1-Pad4)">
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="151" name="/USB+">
+      <node ref="J1" pin="B6"/>
+      <node ref="U2" pin="3"/>
+      <node ref="J1" pin="A6"/>
+    </net>
+    <net code="152" name="/USB-">
+      <node ref="U2" pin="1"/>
+      <node ref="J1" pin="A7"/>
+      <node ref="J1" pin="B7"/>
+    </net>
+    <net code="153" name="Net-(J1-PadB5)">
+      <node ref="R4" pin="2"/>
+      <node ref="J1" pin="B5"/>
+    </net>
+    <net code="154" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="155" name="ENCO_B">
+      <node ref="K_1" pin="B"/>
+      <node ref="U3" pin="35"/>
+    </net>
+    <net code="156" name="ENCO_A">
+      <node ref="K_1" pin="A"/>
+      <node ref="U3" pin="34"/>
+    </net>
+    <net code="157" name="col13">
+      <node ref="U3" pin="17"/>
+      <node ref="K_105" pin="1"/>
+      <node ref="K_86" pin="1"/>
+      <node ref="K_30" pin="1"/>
+      <node ref="K_67" pin="1"/>
+      <node ref="K_48" pin="1"/>
+      <node ref="K_15" pin="1"/>
+    </net>
+    <net code="158" name="Net-(D_82-Pad2)">
+      <node ref="D_82" pin="2"/>
+      <node ref="K_88" pin="2"/>
+    </net>
+    <net code="159" name="col15">
+      <node ref="K_17" pin="1"/>
+      <node ref="K_88" pin="1"/>
+      <node ref="K_107" pin="1"/>
+      <node ref="K_32" pin="1"/>
+      <node ref="K_69" pin="1"/>
+      <node ref="K_50" pin="1"/>
+      <node ref="K_1" pin="S1"/>
+      <node ref="U3" pin="23"/>
+    </net>
+    <net code="160" name="Net-(D_81-Pad2)">
+      <node ref="D_81" pin="2"/>
+      <node ref="K_87" pin="2"/>
+    </net>
+    <net code="161" name="Net-(D_80-Pad2)">
+      <node ref="D_80" pin="2"/>
+      <node ref="K_86" pin="2"/>
+    </net>
+    <net code="162" name="Net-(D_79-Pad2)">
+      <node ref="D_79" pin="2"/>
+      <node ref="K_85" pin="2"/>
+    </net>
+    <net code="163" name="Net-(D_78-Pad2)">
+      <node ref="D_78" pin="2"/>
+      <node ref="K_84" pin="2"/>
+    </net>
+    <net code="164" name="col4">
+      <node ref="K_77" pin="1"/>
+      <node ref="K_39" pin="1"/>
+      <node ref="K_21" pin="1"/>
+      <node ref="K_96" pin="1"/>
+      <node ref="K_58" pin="1"/>
+      <node ref="U3" pin="62"/>
+      <node ref="K_6" pin="1"/>
+    </net>
+    <net code="165" name="Net-(D_71-Pad2)">
+      <node ref="K_77" pin="2"/>
+      <node ref="D_71" pin="2"/>
+    </net>
+    <net code="166" name="col5">
+      <node ref="K_97" pin="1"/>
+      <node ref="K_7" pin="1"/>
+      <node ref="K_78" pin="1"/>
+      <node ref="K_22" pin="1"/>
+      <node ref="K_40" pin="1"/>
+      <node ref="U3" pin="61"/>
+      <node ref="K_59" pin="1"/>
+    </net>
+    <net code="167" name="Net-(D_72-Pad2)">
+      <node ref="K_78" pin="2"/>
+      <node ref="D_72" pin="2"/>
+    </net>
+    <net code="168" name="col6">
+      <node ref="U3" pin="11"/>
+      <node ref="K_23" pin="1"/>
+      <node ref="K_98" pin="1"/>
+      <node ref="K_60" pin="1"/>
+      <node ref="K_41" pin="1"/>
+      <node ref="K_79" pin="1"/>
+      <node ref="K_8" pin="1"/>
+    </net>
+    <net code="169" name="Net-(D_73-Pad2)">
+      <node ref="K_79" pin="2"/>
+      <node ref="D_73" pin="2"/>
+    </net>
+    <net code="170" name="row4">
+      <node ref="D_67" pin="1"/>
+      <node ref="D_74" pin="1"/>
+      <node ref="D_81" pin="1"/>
+      <node ref="D_77" pin="1"/>
+      <node ref="D_76" pin="1"/>
+      <node ref="D_83" pin="1"/>
+      <node ref="D_68" pin="1"/>
+      <node ref="D_82" pin="1"/>
+      <node ref="D_69" pin="1"/>
+      <node ref="D_70" pin="1"/>
+      <node ref="D_75" pin="1"/>
+      <node ref="D_71" pin="1"/>
+      <node ref="D_72" pin="1"/>
+      <node ref="D_79" pin="1"/>
+      <node ref="D_73" pin="1"/>
+      <node ref="U3" pin="26"/>
+      <node ref="D_80" pin="1"/>
+      <node ref="D_78" pin="1"/>
+    </net>
+    <net code="171" name="Net-(D_50-Pad2)">
+      <node ref="D_50" pin="2"/>
+      <node ref="K_54" pin="2"/>
+    </net>
+    <net code="172" name="row3">
+      <node ref="D_51" pin="1"/>
+      <node ref="U3" pin="27"/>
+      <node ref="D_50" pin="1"/>
+      <node ref="D_55" pin="1"/>
+      <node ref="D_57" pin="1"/>
+      <node ref="D_58" pin="1"/>
+      <node ref="D_60" pin="1"/>
+      <node ref="D_61" pin="1"/>
+      <node ref="D_66" pin="1"/>
+      <node ref="D_59" pin="1"/>
+      <node ref="D_52" pin="1"/>
+      <node ref="D_65" pin="1"/>
+      <node ref="D_56" pin="1"/>
+      <node ref="D_64" pin="1"/>
+      <node ref="D_63" pin="1"/>
+      <node ref="D_54" pin="1"/>
+      <node ref="D_62" pin="1"/>
+      <node ref="D_53" pin="1"/>
+    </net>
+    <net code="173" name="Net-(D_51-Pad2)">
+      <node ref="D_51" pin="2"/>
+      <node ref="K_55" pin="2"/>
+      <node ref="K_52" pin="2"/>
+    </net>
+    <net code="174" name="Net-(D_77-Pad2)">
+      <node ref="K_83" pin="2"/>
+      <node ref="D_77" pin="2"/>
+    </net>
+    <net code="175" name="Net-(D_76-Pad2)">
+      <node ref="K_82" pin="2"/>
+      <node ref="D_76" pin="2"/>
+    </net>
+    <net code="176" name="Net-(D_75-Pad2)">
+      <node ref="D_75" pin="2"/>
+      <node ref="K_81" pin="2"/>
+    </net>
+    <net code="177" name="Net-(D_74-Pad2)">
+      <node ref="K_80" pin="2"/>
+      <node ref="D_74" pin="2"/>
+    </net>
+    <net code="178" name="Net-(D_91-Pad2)">
+      <node ref="D_91" pin="2"/>
+      <node ref="K_99" pin="2"/>
+    </net>
+    <net code="179" name="Net-(D_93-Pad2)">
+      <node ref="D_93" pin="2"/>
+      <node ref="K_101" pin="2"/>
+    </net>
+    <net code="180" name="row5">
+      <node ref="D_90" pin="1"/>
+      <node ref="D_96" pin="1"/>
+      <node ref="D_93" pin="1"/>
+      <node ref="D_95" pin="1"/>
+      <node ref="U3" pin="25"/>
+      <node ref="D_89" pin="1"/>
+      <node ref="D_100" pin="1"/>
+      <node ref="D_97" pin="1"/>
+      <node ref="D_84" pin="1"/>
+      <node ref="D_99" pin="1"/>
+      <node ref="D_88" pin="1"/>
+      <node ref="D_87" pin="1"/>
+      <node ref="D_86" pin="1"/>
+      <node ref="D_91" pin="1"/>
+      <node ref="D_94" pin="1"/>
+      <node ref="D_98" pin="1"/>
+      <node ref="D_92" pin="1"/>
+      <node ref="D_85" pin="1"/>
+    </net>
+    <net code="181" name="Net-(D_92-Pad2)">
+      <node ref="K_100" pin="2"/>
+      <node ref="D_92" pin="2"/>
+    </net>
+    <net code="182" name="Net-(D_97-Pad2)">
+      <node ref="K_105" pin="2"/>
+      <node ref="D_97" pin="2"/>
+    </net>
+    <net code="183" name="Net-(D_96-Pad2)">
+      <node ref="K_104" pin="2"/>
+      <node ref="D_96" pin="2"/>
+    </net>
+    <net code="184" name="Net-(D_95-Pad2)">
+      <node ref="K_103" pin="2"/>
+      <node ref="D_95" pin="2"/>
+    </net>
+    <net code="185" name="Net-(D_94-Pad2)">
+      <node ref="K_102" pin="2"/>
+      <node ref="D_94" pin="2"/>
+    </net>
+    <net code="186" name="col0">
+      <node ref="K_73" pin="1"/>
+      <node ref="U3" pin="33"/>
+      <node ref="K_2" pin="1"/>
+      <node ref="K_35" pin="1"/>
+      <node ref="K_92" pin="1"/>
+      <node ref="K_54" pin="1"/>
+    </net>
+    <net code="187" name="Net-(D_67-Pad2)">
+      <node ref="K_73" pin="2"/>
+      <node ref="D_67" pin="2"/>
+    </net>
+    <net code="188" name="Net-(D_68-Pad2)">
+      <node ref="D_68" pin="2"/>
+      <node ref="K_74" pin="2"/>
+      <node ref="K_71" pin="2"/>
+    </net>
+    <net code="189" name="col1">
+      <node ref="K_74" pin="1"/>
+      <node ref="U3" pin="30"/>
+      <node ref="K_18" pin="1"/>
+      <node ref="K_71" pin="1"/>
+      <node ref="K_52" pin="1"/>
+      <node ref="K_93" pin="1"/>
+      <node ref="K_34" pin="1"/>
+      <node ref="K_55" pin="1"/>
+      <node ref="K_3" pin="1"/>
+      <node ref="K_36" pin="1"/>
+    </net>
+    <net code="190" name="col2">
+      <node ref="K_75" pin="1"/>
+      <node ref="K_37" pin="1"/>
+      <node ref="U3" pin="29"/>
+      <node ref="K_4" pin="1"/>
+      <node ref="K_19" pin="1"/>
+      <node ref="K_56" pin="1"/>
+      <node ref="K_94" pin="1"/>
+    </net>
+    <net code="191" name="Net-(D_69-Pad2)">
+      <node ref="K_75" pin="2"/>
+      <node ref="D_69" pin="2"/>
+    </net>
+    <net code="192" name="col3">
+      <node ref="K_95" pin="1"/>
+      <node ref="K_20" pin="1"/>
+      <node ref="K_5" pin="1"/>
+      <node ref="K_38" pin="1"/>
+      <node ref="K_76" pin="1"/>
+      <node ref="K_57" pin="1"/>
+      <node ref="U3" pin="28"/>
+    </net>
+    <net code="193" name="Net-(D_70-Pad2)">
+      <node ref="K_76" pin="2"/>
+      <node ref="D_70" pin="2"/>
+    </net>
+  </nets>
+</export>
